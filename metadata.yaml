@@ -1,5 +1,5 @@
 _repo: Valtioviisas-kannunvalaja-Viisinaytoksinen-komedia_51766
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Den politiske kandestøber. Finnish
 contributor:
   translator:
@@ -15,6 +15,9 @@ contributor:
     deathdate: 1948
     gutenberg_agent_id: '45809'
     url: http://www.gutenberg.org/2009/agents/45809
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Holberg, Ludvig
@@ -27,6 +30,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1863
     wikipedia: http://en.wikipedia.org/wiki/Ludvig_Holberg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51766#Valtioviisas-kannunvalaja-Viisinaytoksinen-komedia
 gutenberg_issued: '2016-04-15'
 gutenberg_type: Text
 identifiers:
